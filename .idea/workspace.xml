@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af40cd4b-cd2a-4902-bffc-5e4bfc1964ba" name="Default Changelist" comment="" />
+    <list default="true" id="af40cd4b-cd2a-4902-bffc-5e4bfc1964ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/member.html" beforeDir="false" afterPath="$PROJECT_DIR$/member.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="profile" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598961333812</updated>
       <workItem from="1598961334896" duration="116000" />
-      <workItem from="1598961476610" duration="1563000" />
+      <workItem from="1598961476610" duration="2476000" />
     </task>
     <task id="LOCAL-00001" summary="わかばのプロフィールを追加">
       <created>1598961963869</created>
