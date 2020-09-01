@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af40cd4b-cd2a-4902-bffc-5e4bfc1964ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/member.html" beforeDir="false" afterPath="$PROJECT_DIR$/member.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,14 +75,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="わかばのプロフィールを追加" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="857" y="181" key="CommitChangelistDialog2" timestamp="1598976514338">
+    <state x="857" y="181" key="CommitChangelistDialog2" timestamp="1598978641932">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state x="857" y="181" key="CommitChangelistDialog2/0.23.2560.1337@0.23.2560.1337" timestamp="1598976514338" />
-    <state x="880" y="427" key="Vcs.Push.Dialog.v2" timestamp="1598977538736">
+    <state x="857" y="181" key="CommitChangelistDialog2/0.23.2560.1337@0.23.2560.1337" timestamp="1598978641932" />
+    <state x="880" y="427" key="Vcs.Push.Dialog.v2" timestamp="1598979004879">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state x="880" y="427" key="Vcs.Push.Dialog.v2/0.23.2560.1337@0.23.2560.1337" timestamp="1598977538736" />
+    <state x="880" y="427" key="Vcs.Push.Dialog.v2/0.23.2560.1337@0.23.2560.1337" timestamp="1598979004879" />
     <state x="1161" y="542" key="cloudConfig.SelfSettingsDialog" timestamp="1598961434743">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
